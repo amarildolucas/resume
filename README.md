@@ -1,12 +1,12 @@
 # Amarildo Lucas
 
-Rua Vilela Tavares, 344
-Brazil, Rio de Janeiro, Méier
-Tel. +55 (21) 974 426615
-Email. hi@amarildolucas.com
-Github. @amarildolucas
-Twitter. @amarildulucas
-Driver license: YES
+Rua Vilela Tavares, 344  
+Brazil, Rio de Janeiro, Méier  
+Tel. +55 (21) 974 426615  
+Email. hi@amarildolucas.com  
+Github. @amarildolucas  
+Twitter. @amarildulucas  
+Driver license: YES  
 
 ## SUMMARY
 
