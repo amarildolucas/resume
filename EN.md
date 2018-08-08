@@ -56,7 +56,7 @@ Portuguese (native).
 ## ACADEMIC QUALIFICATIONS
 **University Veiga de Almeida, Brazil — Computer Sciencies**  
 February 2014 - December 2019  
-Between the best brazilian private universities in Rio de Janeiro.  
+Between the best brazillian private universities in Rio de Janeiro.  
 
 **Catholic University of Angola, Angola — Computer Engineering**  
 February 2009 - December 2011  
