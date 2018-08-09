@@ -1,69 +1,76 @@
-Amarildo Lucas
-Rua Vilela Tavares
-Brazil, Rio de Janeiro
-Tel. +55 (21) 974 426615
-Email. hi@amarildolucas.com
-Github. @amarildolucas
-Twitter. @amarildulucas
-Driver license: YES
+# Amarildo Lucas
 
-SUMMARY
-+5 years of extensive knowledge of iOS development with Swift. Fluent in the current range of Apple related technologies. I prototype, design, layout, and code native apps and apis integrations specifically for web and iOS. Possessing self-discipline, good team spirit, deadline oriented and having ability to ensure that technical solutions meet business objectives and always eager to learn new technologies.
+Rua Vilela Tavares    
+Brazil, Rio de Janeiro    
+Tel. +55 (21) 974 426615  
+E-mail. hi@amarildolucas.com  
+Github. @amarildolucas  
+Twitter. @amarildulucas  
+Carteira de motorista: SIM 
 
-WORK EXPERIENCE
-Kamba Soluções Pagamentos, LDA.
-Software Developer (iOS) - January 2017 - Now
+## RESUMO
 
-Contributing between business, clients and developers. Responsible for the general technical stack, design, coding, testing and installation. Providing support and maintenance of existing iOS apps and also ruby/rails APIs. Competence in Swift, Interface Builder, Auto Layout, Design patterns, App architecture, Continuous deployment with the latest tooling, Frameworks, and APIs on Apple platforms.
+Mais de 5 anos de conhecimento amplo em desenvolvimento iOS com Swift. Fluente com o atual conjunto de tecnologias relacionadas à Apple. Criação de protótipos, design, layouts e programação de aplicativos nativos e integrações de apis especificamente para web e iOS. Possuindo autodisciplina, bom espírito de equipe, orientado a prazos e capacidade de garantir que as soluções técnicas atinjam os objetivos de negócio e sempre ansioso para aprender novas tecnologias.
 
-Beezon
-Software Developer (iOS) - January 2015 - December 2016
+## EXPERIÊNCIA DE TRABALHO
 
-Working on self-funded company to launch mobile and web applications. Selected by the Government Acceleration Program for local startups in Angola/Luanda, INAPEM. Worked on client applications as well and some apps was featured in TOP 10 of the App Store several times.
+### Kamba Soluções Pagamentos, LDA. 
+**Desenvolvedor de Software (iOS) - Janeiro 2017 - o momento**
 
-Pitaco, Botafogo, RJ - Brazil
-Software Developer (iOS) - June 2014 - December 2014
+Contribuindo entre empresas, clientes e desenvolvedores. Responsável pela stack técnica geral, design, programação, testes e instalação. Fornecendo suporte e manutenção de aplicativos iOS existentes e também APIs Ruby/Rails. Competência em Swift, Interface Builder, Auto Layout, padrões de design, arquitetura de aplicativos, implantação contínua com as mais recentes ferramentas, Frameworks e APIs nas plataformas da Apple.
 
-I had an overview of the business, created and implemented any development specifications and the necessary technological aspects to keep the application functional. Pitaco is a soccer betting application that gives prizes every week. Highlighted by Info Magazine as one of the 20 most cool apps developed in Brazil. Worked on the team to create new experiencies as rankings, friend invitations, weekly group rankings...
+### Beezon
+**Desenvolvedor de Software (iOS) - Janeiro 2015 - Dezembro 2016**  
 
-Frameworks
-Alamofire / AlamofireObjectMapper
-Firebase
-Kingfisher / SDWebImage
-Quick / XCTest
+Trabalhando em uma empresa auto-financiada para lançar aplicativos móveis e web. Selecionado pelo Programa de Aceleração do Governo para startups locais em Angola/Luanda, INAPEM. Desenvolvimento de aplicativos clientes com destaque no TOP 10 da App Store.
 
-Tools
-Xcode
-Git / Github / Bitbucket
-Postman
-Sketch
-Markdown
-Fastlane
-Slack
-Cocoapods
+### Pitaco, Botafogo, RJ - Brazil 
+**Desenvolvedor de Software (iOS) - Junho 2014 - Dezembro 2014**  
 
-KEY SKILLS AND COMPETENCIES
-I have also experience in Web Development, Ruby On Rails, SQL, WebServices, APIs, HTML, CSS, Foundation Framework, OOP, REST, PostgreSQL, MySQL, Javascript, Design patterns, UML, Sketch, Mobile strategies, Product management, Startups, Project management, Scrum, Entrepreneurship, Digital marketing, ASO, Mobile design, Web design, Graphics design.
+Eu tinha uma visão geral do negócio, criei e implementei todas as especificações de desenvolvimento e os aspectos tecnológicos necessários para manter a aplicação funcional. O Pitaco é um aplicativo de bolão de futebol que dá prêmios toda semana. Destacado pela revista Info como um dos 20 aplicativos mais legais desenvolvidos no Brasil. Trabalhei na equipe para criar novas experiências como rankings/classificações, convites de amigos, rankings/classificações semanais de grupos...  
 
-LANGUAGES
-English (advanced): reading, writing and conversation. Portuguese (native).
+## Frameworks
+Alamofire / AlamofireObjectMapper  
+Firebase  
+Kingfisher / SDWebImage  
+Quick / XCTest  
 
-ACADEMIC QUALIFICATIONS
-University Veiga de Almeida, Brazil — Computer Sciencies
-February 2014 - December 2019
-Between the best brazilian private universities in Rio de Janeiro.
+## Ferramentas
+Xcode  
+Git / Github / Bitbucket  
+Postman  
+Sketch  
+Markdown  
+Fastlane  
+Slack  
+Cocoapods  
 
-Catholic University of Angola, Angola — Computer Engineering
-February 2009 - December 2011
-Best angolan university and listed top 100 african universities.
+## HABILIDADES E COMPETÊNCIAS CHAVE
 
-Catholic Major Seminary Of Saint Joseph, Angola — Human Sciencies
-February 2006 - December 2008
+Eu também tenho experiência em Desenvolvimento Web, Ruby On Rails, SQL, WebServices, APIs, HTML, CSS, Framework Foundation, OOP, REST, PostgreSQL, Javascript, padrões de design, UML, Sketch, estratégias móveis, gerenciamento de produto, Startups, Gerenciamento de projetos, Scrum, Empreendedorismo, Marketing digital, ASO, Design mobile, Web design, Design gráfico.
 
-PAST PERSONAL PROJECT INITIATIVES
-Karga — Fast airtime & data. Specifications, Prototypes, Design, Layouts, Backend, APIs, Frontend, iOS.
+## IDIOMAS
+Inglês (avançado)
+Português (nativo).
 
-ScrollChat — Chat with content around the web.
-Specifications, Prototypes, Design, APIs, iOS.
+## QUALIFICAÇÕES ACADÊMICAS
+**Universidade Veiga de Almeida, Brasil — Ciência da Computação**  
+Fevereiro 2014 - Dezembro 2019  
+Entre as melhores universidades privadas brasileiras do Rio de Janeiro.  
 
-Cinyur — #1 angolan movies/cinema app. Specifications, Prototypes, Design, Backend, APIs, iOS.
+**Universidade Católica de Angola (PUC), Angola — Engenharia da Computação (Bacharelado)**  
+Fevereiro 2009 - Dezembro 2011  
+Melhor universidade angolana e selecionada entre as 100 melhores universidades africanas. 
+
+**Seminário Maior de São José, Angola — Ciências Humanas**  
+Fevereiro 2006 - Dezembro 2008
+
+## INICIATIVAS DE PROJETOS PESSOAIS/FREELANCE PASSADOS 
+**Karga** — Recargas de créditos rápidas e dados de internet. 
+Especificações, Protótipos, Design, Layouts, Back-end, APIs, Frontend, iOS.
+
+**ScrollChat** — Bate-papo com conteúdo pela web. 
+Especificações, Protótipos, Design, APIs, iOS.
+
+**Cinyur** — #1 aplicativo de cinema angolano. TOP 10 AppStore.
+Especificações, Protótipos, Design, Backend, APIs, iOS.
