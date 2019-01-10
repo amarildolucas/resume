@@ -1,9 +1,8 @@
 # Amarildo Lucas
-
-Rua Vilela Tavares    
+  
 Brazil, Rio de Janeiro    
 Tel. +55 (21) 974 426615  
-E-mail. hi@amarildolucas.com  
+E-mail. hello@amarildolucas.com  
 Github. @amarildolucas  
 Twitter. @amarildulucas  
 Carteira de motorista: SIM 
@@ -29,7 +28,7 @@ Trabalhando em uma empresa auto-financiada para lançar aplicativos móveis e we
 
 Eu tinha uma visão geral do negócio, criei e implementei todas as especificações de desenvolvimento e os aspectos tecnológicos necessários para manter a aplicação funcional. O Pitaco é um aplicativo de bolão de futebol que dá prêmios toda semana. Destacado pela revista Info como um dos 20 aplicativos mais legais desenvolvidos no Brasil. Trabalhei na equipe para criar novas experiências como rankings/classificações, convites de amigos, rankings/classificações semanais de grupos...  
 
-## Frameworks
+## Frameworks favoritos
 Alamofire / AlamofireObjectMapper  
 Firebase  
 Kingfisher / SDWebImage  
