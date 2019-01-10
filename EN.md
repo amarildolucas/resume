@@ -2,7 +2,7 @@
    
 Brazil, Rio de Janeiro    
 Tel. +55 (21) 974 426615  
-Email. hi@amarildolucas.com  
+Email. hello@amarildolucas.com  
 Github. @amarildolucas  
 Twitter. @amarildulucas  
 Driver license: YES  
