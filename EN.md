@@ -7,17 +7,19 @@ Github. @amarildolucas
 Twitter. @amarildulucas  
 Driver license: YES  
 
+
 ## SUMMARY
 
 +7 years of extensive knowledge of iOS development. Fluent in the current range of Apple-related technologies. I prototype, design, layout, and code native apps and APIs integrations specifically for web and iOS. Possessing self-discipline, good team spirit, deadline-oriented and having ability to ensure that technical solutions meet business objectives and always eager to learn new technologies.
+
 
 ## WORK EXPERIENCE
 
 ### Órama Investments 
 **iOS Engineer - October 2019 - Now**
 
-### Technical Content Writer
-**Semaphore - July 2019 - Now**
+### Semaphore
+**Technical Content Writer - July 2019 - Now**
 
 I create unique, high-quality technical content for the tech industry. The technical content is created primarily for Semaphore, including guest post articles and ebook content. I do my own research and create an article outline when needed. Specific topics include CI/CD, iOS automation testing, Fastlane, ReactNative, CI tools comparisons, tips and best practices.
 
