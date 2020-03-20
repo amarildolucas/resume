@@ -1,7 +1,7 @@
 # Amarildo Lucas
    
 Brazil, Rio de Janeiro    
-Tel. +55 (21) 974 426615  
+Tel. +55 (21) 972 500152  
 Email. hello@amarildolucas.com  
 Github. @amarildolucas  
 Twitter. @amarildulucas  
@@ -9,9 +9,17 @@ Driver license: YES
 
 ## SUMMARY
 
-+5 years of extensive knowledge of iOS development with Swift. Fluent in the current range of Apple related technologies. I prototype, design, layout, and code native apps and apis integrations specifically for web and iOS. Possessing self-discipline, good team spirit, deadline oriented and having ability to ensure that technical solutions meet business objectives and always eager to learn new technologies.   
++7 years of extensive knowledge of iOS development. Fluent in the current range of Apple-related technologies. I prototype, design, layout, and code native apps and APIs integrations specifically for web and iOS. Possessing self-discipline, good team spirit, deadline-oriented and having ability to ensure that technical solutions meet business objectives and always eager to learn new technologies.
 
 ## WORK EXPERIENCE
+
+### Órama Investments 
+**iOS Engineer - October 2019 - Now**
+
+### Technical Content Writer
+**Semaphore - July 2019 - Now**
+
+I create unique, high-quality technical content for the tech industry. The technical content is created primarily for Semaphore, including guest post articles and ebook content. I do my own research and create an article outline when needed. Specific topics include CI/CD, iOS automation testing, Fastlane, ReactNative, CI tools comparisons, tips and best practices.
 
 ### Kamba Soluções Pagamentos, LDA. 
 **Software Developer (iOS) - January 2017 - Now**
