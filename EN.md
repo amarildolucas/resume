@@ -2,24 +2,28 @@
    
 Brazil, Rio de Janeiro    
 Tel. +55 (21) 972 500152  
-Email. hello@amarildolucas.com  
-Github. @amarildolucas  
-Twitter. @amarildulucas  
-Driver license: YES  
+Email. hi@amarildo.codes  
+Github. @amarildolucas   
 
 
 ## SUMMARY
 
-+7 years of extensive knowledge of iOS development. Fluent in the current range of Apple-related technologies. I prototype, design, layout, and code native apps and APIs integrations specifically for web and iOS. Possessing self-discipline, good team spirit, deadline-oriented and having ability to ensure that technical solutions meet business objectives and always eager to learn new technologies.
++8 years of extensive knowledge of iOS development. Fluent in the current range of Apple-related technologies. I prototype, design, layout, and code native apps and APIs integrations specifically for web and iOS. Possessing self-discipline, good team spirit, deadline-oriented and having ability to ensure that technical solutions meet business objectives and always eager to learn new technologies.
 
 
 ## WORK EXPERIENCE
 
 ### Órama Investments 
-**iOS Engineer - October 2019 - Now**
+**Sr. Lead iOS Engineer - August 2019 - Now**
+
+### PagSeguro - PagBank - UOL
+**iOS Engineer - Design Systems - February 2021 - July 2021**
+
+### Órama Investments 
+**iOS Engineer - October 2019 - February 2021**
 
 ### Semaphore
-**Technical Content Writer - July 2019 - Now**
+**Technical Content Writer - July 2019 - July 2021**
 
 I create unique, high-quality technical content for the tech industry. The technical content is created primarily for Semaphore, including guest post articles and ebook content. I do my own research and create an article outline when needed. Specific topics include CI/CD, iOS automation testing, Fastlane, ReactNative, CI tools comparisons, tips and best practices.
 
@@ -45,14 +49,15 @@ Kingfisher / SDWebImage
 Quick / XCTest  
 
 ## Tools
-Xcode  
+Xcode 
 Git / Github / Bitbucket  
 Postman  
 Sketch  
 Markdown  
 Fastlane  
 Slack  
-Cocoapods  
+Cocoapods
+Proxyman
 
 ## KEY SKILLS AND COMPETENCIES
 
