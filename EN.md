@@ -2,19 +2,29 @@
    
 Brazil, Rio de Janeiro    
 Tel. +55 (21) 972 500152  
-Email. hi@amarildo.codes  
+E-mail. hi@amarildolucas.dev  
 Github. @amarildolucas   
 
 
 ## SUMMARY
 
-+8 years of extensive knowledge of iOS development. Fluent in the current range of Apple-related technologies. I prototype, design, layout, and code native apps and APIs integrations specifically for web and iOS. Possessing self-discipline, good team spirit, deadline-oriented and having ability to ensure that technical solutions meet business objectives and always eager to learn new technologies.
+I'm fluent in the current range of Apple-related technologies. I distribute and publish apps in the App Store since 2013. 
+
+I'm passionate about prototyping, designing, layout, and coding native apps and API integrations specifically for Web and Apple platforms. 
+
+I possess self-discipline and good team spirit, I'm deadline-oriented and can ensure that technical solutions meet business objectives. I'm always eager to learn new technologies.
 
 
 ## WORK EXPERIENCE
 
 ### Órama Investments 
-**Sr. Lead iOS Engineer - August 2019 - Now**
+**Lead iOS & macOS Engineer - Jan 2025 - Now**
+
+I'm responsible to natively integrate with existing translation models workflows, making company-compliant translation models readily available in macOS application while developing a language assistant for global teams.
+
+
+### Órama Investments 
+**Sr. Lead iOS Engineer - August 2019 - 2024**
 
 ### PagSeguro - PagBank - UOL
 **iOS Engineer - Design Systems - February 2021 - July 2021**
@@ -42,22 +52,6 @@ Working on self-funded company to launch mobile and web applications. Selected b
 
 I had an overview of the business, created and implemented any development specifications and the necessary technological aspects to keep the application functional. Pitaco is a soccer betting application that gives prizes every week. Highlighted by Info Magazine as one of the 20 most cool apps developed in Brazil. Worked on the team to create new experiencies as rankings, friend invitations, weekly group rankings...  
 
-## Frameworks
-Alamofire / AlamofireObjectMapper  
-Firebase  
-Kingfisher / SDWebImage  
-Quick / XCTest  
-
-## Tools
-Xcode 
-Git / Github / Bitbucket  
-Postman  
-Sketch  
-Markdown  
-Fastlane  
-Slack  
-Cocoapods
-Proxyman
 
 ## KEY SKILLS AND COMPETENCIES
 
@@ -79,12 +73,12 @@ Best angolan university and listed top 100 african universities.
 **Catholic Major Seminary Of Saint Joseph, Angola — Human Sciencies**  
 February 2006 - December 2008
 
-## PAST PERSONAL PROJECT INITIATIVES 
-**Karga** — Fast airtime & data. 
-Specifications, Prototypes, Design, Layouts, Backend, APIs, Frontend, iOS.
+## PERSONAL PROJECT INITIATIVES 
 
-**ScrollChat** — Chat with content around the web.   
-Specifications, Prototypes, Design, APIs, iOS.
+I also have multiple apps published at App Store:
 
-**Cinyur** — #1 angolan movies/cinema app.
-Specifications, Prototypes, Design, Backend, APIs, iOS.
+- **FigCap**: Captions & Hashtags
+- **Memoir**: Voice to Text & Notes
+- **Vocally**: Text to Speech
+- **Lexi**: VOcabulary Daily Words
+- **Plantry**: Shopping List and Recipes
