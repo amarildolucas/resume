@@ -8,11 +8,7 @@ Github. @amarildolucas
 
 ## SUMMARY
 
-I'm fluent in the current range of Apple-related technologies. I distribute and publish apps in the App Store since 2013. 
-
-I'm passionate about prototyping, designing, layout, and coding native apps and API integrations specifically for Web and Apple platforms. 
-
-I possess self-discipline and good team spirit, I'm deadline-oriented and can ensure that technical solutions meet business objectives. I'm always eager to learn new technologies.
+Lead iOS/macOS engineer with 11+ years of experience building scalable native apps. Leading mobile teams, delivering apps with 100K+ downloads, and optimizing CI/CD workflows.
 
 
 ## WORK EXPERIENCE
@@ -50,7 +46,7 @@ Working on self-funded company to launch mobile and web applications. Selected b
 ### Pitaco, Botafogo, RJ - Brazil 
 **Software Developer (iOS) - June 2014 - December 2014**  
 
-I had an overview of the business, created and implemented any development specifications and the necessary technological aspects to keep the application functional. Pitaco is a soccer betting application that gives prizes every week. Highlighted by Info Magazine as one of the 20 most cool apps developed in Brazil. Worked on the team to create new experiencies as rankings, friend invitations, weekly group rankings...  
+I had an overview of the business, created and implemented any development specifications and the necessary technological aspects to keep the application functional. Pitaco is a soccer betting application that gives prizes every week. Highlighted by Info Magazine as one of the 20 most cool apps developed in Brazil. Worked on the team to create new experiences as rankings, friend invitations, weekly group rankings...  
 
 
 ## KEY SKILLS AND COMPETENCIES
@@ -62,9 +58,9 @@ English (advanced): reading, writing and conversation.
 Portuguese (native).
 
 ## ACADEMIC QUALIFICATIONS
-**University Veiga de Almeida, Brazil — Computer Sciencies**  
+**University Veiga de Almeida, Brazil — Computer Science**  
 February 2014 - December 2019  
-Between the best brazillian private universities in Rio de Janeiro.  
+One of the top Brazilian private universities in Rio de Janeiro.  
 
 **Catholic University of Angola, Angola — Computer Engineering**  
 February 2009 - December 2011  
