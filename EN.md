@@ -13,7 +13,7 @@ Lead iOS/macOS engineer with 11+ years of experience building scalable native ap
 
 ## WORK EXPERIENCE
 
-### Órama Investments 
+### Verbalista (VerbaTech) 
 **Lead iOS & macOS Engineer - Jan 2025 - Now**
 
 I'm responsible to natively integrate with existing translation models workflows, making company-compliant translation models readily available in macOS application while developing a language assistant for global teams.
