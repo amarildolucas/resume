@@ -1,80 +1,72 @@
 # Amarildo Lucas
-   
-Brazil, Rio de Janeiro    
-Tel. +55 (21) 972 500152  
-E-mail. hi@amarildolucas.dev  
-Github. @amarildolucas   
+Rio de Janeiro, Brazil | +55(21)972500152 | hi@amarildolucas.dev
+**GitHub:** github.com/amaril dolucas | **LinkedIn:** linkedin.com/in/amarildolucas
 
+## Summary
+Lead iOS and macOS Engineer with 11+ years of experience designing and building scalable native apps using Swift, SwiftUI, Combine, and AVFoundation. Skilled in AI integration, speech processing, and on-device intelligence for Apple platforms. Proven track record in leading mobile teams, optimizing CI/CD pipelines (Fastlane, Xcode Cloud, GitHub Actions), and delivering apps with 100K+ downloads on the App Store.
 
-## SUMMARY
+## Key Skills
+**Programming Languages:** Swift, Objective-C, Ruby, JavaScript, SQL 
+**Frameworks & Technologies:** SwiftUI, UIKit, Combine, CoreData, AVFoundation, Core ML, Speech Framework 
+**Tools & Automation:** Xcode, Fastlane, GitHub Actions, Xcode Cloud, TestFlight, Firebase Crashlytics 
+**Architecture & Design:** MVVM, TCA, SOLID, Clean Architecture, Design Patterns, UML 
+**Project Management:** Agile, Scrum, Jira, Trello, Product Roadmapping Soft Skills: Leadership, Mentorship, Cross-functional Collaboration, Technical Writing 
 
-Lead iOS/macOS engineer with 11+ years of experience building scalable native apps. Leading mobile teams, delivering apps with 100K+ downloads, and optimizing CI/CD workflows.
+## Work Experience
 
+### Verbalista (VerbaTech)
+**Senior Lead iOS and macOS Engineer (01/2025 – 07/2025)**  
+- Integrated custom translation AI models with macOS native applications using Swift and LLMs.
+- Built a language assistant for global teams, reducing translation latency by 40%.
+- Designed and deployed CI/CD automations via GitHub Actions and Xcode Cloud for macOS distribution.
 
-## WORK EXPERIENCE
+### Órama Investments
+**Senior Lead iOS Engineer (08/2019 – 12/2024)**  
+- Led the iOS mobile development team collaborating with cross‑functional teams to deliver financial apps with 100K+ downloads for B2C and B2B clients (white-label).
+- Migrated legacy UIKit projects to SwiftUI, reducing codebase, app size and improving app performance by 25%.
+- Implemented automated testing and deployment with Fastlane and Bitrise, improving internal (QAs) and external (AppStore) deploys recurrent cicles.
 
-### Verbalista (VerbaTech) 
-**Lead iOS & macOS Engineer - Jan 2025 - Now**
+### PagSeguro – PagBank – UOL
+**Senior iOS Engineer, Design Systems (02/2021 – 07/2021)**  
+- Developed scalable UI components and shared libraries for B2C and B2B PagBank apps.
+- Collaborated with UX teams to build and standardize design systems using Swift and UIKit.
+  
 
-I'm responsible to natively integrate with existing translation models workflows, making company-compliant translation models readily available in macOS application while developing a language assistant for global teams.
+### Órama Investments
+**iOS Engineer (October 2019 – February 2021)**  
+- Developed and maintained native iOS applications for investment services.  
+- Implemented features based on user feedback and performed continuous improvements.  
 
+### Semaphore CI
+**Technical Content Writer (part-time) (07/2019 – 07/2021)**  
+- Authored high-quality research, technical articles, and guides about CI/CD, iOS automation, Fastlane, and testing.
+- Increased blog traffic by 17% through optimized developer-focused content.
 
-### Órama Investments 
-**Sr. Lead iOS Engineer - August 2019 - 2024**
-
-### PagSeguro - PagBank - UOL
-**iOS Engineer - Design Systems - February 2021 - July 2021**
-
-### Órama Investments 
-**iOS Engineer - October 2019 - February 2021**
-
-### Semaphore
-**Technical Content Writer - July 2019 - July 2021**
-
-I create unique, high-quality technical content for the tech industry. The technical content is created primarily for Semaphore, including guest post articles and ebook content. I do my own research and create an article outline when needed. Specific topics include CI/CD, iOS automation testing, Fastlane, ReactNative, CI tools comparisons, tips and best practices.
-
-### Kamba Soluções Pagamentos, LDA. 
-**Software Developer (iOS) - January 2017 - Now**
-
-Contributing between business, clients and developers. Responsible for the general technical stack, design, coding, testing and installation. Providing support and maintenance of existing iOS apps and also ruby/rails APIs. Competence in Swift, Interface Builder, Auto Layout, Design patterns, App architecture, Continuous deployment with the latest tooling, Frameworks, and APIs on Apple platforms.
-
+### Kamba Soluções Pagamentos LDA. 
+**Software Developer (01/2017 – 07/2019)**
+- Built and maintained iOS apps integrating Swift, UIKIt, and REST APIs.
+- Led technical architecture and deployed CI/CD pipelines with Ruby on Rails APIs.
+  
 ### Beezon
-**Software Developer (iOS) - January 2015 - December 2016**  
+**Software Developer (01/2015 – 12/2016)**
+• Founded a self-funded startup developing mobile and web apps featured in the App Store Top 10 several times.
+• Selected for INAPEM Government Acceleration Program for local startups.
 
-Working on self-funded company to launch mobile and web applications. Selected by the Government Acceleration Program for local startups in Angola/Luanda, INAPEM. Worked on client applications as well and some apps was featured in TOP 10 of the App Store several times. 
+### Pitaco 
+**Software Developer (06/2014 – 12/2014)**
+• Developed a sports betting app highlighted by Info Magazine as one of Brazil’s top 20 apps.
+• Implemented ranking and social features to boost user engagement.
 
-### Pitaco, Botafogo, RJ - Brazil 
-**Software Developer (iOS) - June 2014 - December 2014**  
+## Education
+Bachelor of Computer Science (B.Sc.) — University Veiga de Almeida, Brazil (02/2014 – 12/2019) Bachelor of Computer Engineering — Catholic University of Angola (02/2009 – 12/2011) Human Sciences Program — Catholic Major Seminary of Saint Joseph, Angola (02/2006 – 12/2008)  
 
-I had an overview of the business, created and implemented any development specifications and the necessary technological aspects to keep the application functional. Pitaco is a soccer betting application that gives prizes every week. Highlighted by Info Magazine as one of the 20 most cool apps developed in Brazil. Worked on the team to create new experiences as rankings, friend invitations, weekly group rankings...  
+## Personal Project (Published on App Store)
+- FigCap — AI-Powered Caption Generator (**SwiftUI, GPT-4o**)
+- Memoir — Voice to Text and Notes App (**Swift, AVFoundation, RevenueCat**)
+- Vocally — Text-to-Speech Reader (**SwiftUI, Microsoft Cognitive Services**)
+- Lexi — Vocabulary Builder with Daily Words 
+- Plantry — Shopping List and Recipe Organizer
 
-
-## KEY SKILLS AND COMPETENCIES
-
-I have also experience in Web Development, Ruby On Rails, SQL, WebServices, APIs, HTML, CSS, Foundation Framework, OOP, REST, PostgreSQL, MySQL, Javascript, Design patterns, UML, Sketch, Mobile strategies, Product management, Startups, Project management, Scrum, Entrepreneurship, Digital marketing, ASO, Mobile design, Web design, Graphics design.
-
-## LANGUAGES
-English (advanced): reading, writing and conversation.
-Portuguese (native).
-
-## ACADEMIC QUALIFICATIONS
-**University Veiga de Almeida, Brazil — Computer Science**  
-February 2014 - December 2019  
-One of the top Brazilian private universities in Rio de Janeiro.  
-
-**Catholic University of Angola, Angola — Computer Engineering**  
-February 2009 - December 2011  
-Best angolan university and listed top 100 african universities.  
-
-**Catholic Major Seminary Of Saint Joseph, Angola — Human Sciencies**  
-February 2006 - December 2008
-
-## PERSONAL PROJECT INITIATIVES 
-
-I also have multiple apps published at App Store:
-
-- **FigCap**: Captions & Hashtags
-- **Memoir**: Voice to Text & Notes
-- **Vocally**: Text to Speech
-- **Lexi**: VOcabulary Daily Words
-- **Plantry**: Shopping List and Recipes
+## Languages
+- **English** – Advanced (reading, writing, and conversation).  
+- **Portuguese** – Native speaker.  
