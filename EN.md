@@ -60,14 +60,16 @@ I’m currently focused on learning and driving innovation at the intersection o
 • Implemented ranking and social features to boost user engagement.
 
 ## Education
-Bachelor of Computer Science (B.Sc.) — University Veiga de Almeida, Brazil (02/2014 – 12/2019) Bachelor of Computer Engineering — Catholic University of Angola (02/2009 – 12/2011) Human Sciences Program — Catholic Major Seminary of Saint Joseph, Angola (02/2006 – 12/2008)  
+- **Bachelor of Computer Science (B.Sc.)** — University Veiga de Almeida (02/2014 – 12/2019)
+- **Bachelor of Computer Engineering** — Catholic University (02/2009 – 12/2011)
+- **Human Sciences Program** — Catholic Major Seminary of Saint Joseph (02/2006 – 12/2008)  
 
 ## Personal Project (Published on App Store)
-- FigCap — AI-Powered Caption Generator (**SwiftUI, GPT-4o**)
-- Memoir — Voice to Text and Notes App (**Swift, AVFoundation, RevenueCat**)
-- Vocally — Text-to-Speech Reader (**SwiftUI, Microsoft Cognitive Services**)
+- FigCap — AI-Powered Caption Generator (**SwiftUI, OpenAI, RevenueCat, Ruby On Rails**)
+- Memoir — Voice to Text and Notes App (**SwiftUI, AVFoundation, Microsoft Cognitive Services, RevenueCat**)
+- Vocally — Text-to-Speech Reader (**SwiftUI, Speech, StoreKit**)
 - Lexi — Vocabulary Builder with Daily Words 
-- Plantry — Shopping List and Recipe Organizer
+- Plantry — Shopping List and Recipe Organizer (**SwiftUI, ProxyAI, LLMs**)
 
 ## Languages
 - **English** – Advanced (reading, writing, and conversation).  
