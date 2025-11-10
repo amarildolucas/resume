@@ -12,20 +12,20 @@ I’m currently focused on learning and driving innovation at the intersection o
 - **Tools & Automation:** Git (GitFlow), Xcode, Swift Package Manager (SPM), CocoaPods, Fastlane, GitHub Actions, Xcode Cloud, Continuous Integration, Continuous Deployment, TestFlight, Firebase Crashlytics, Sentry, Feature Flags (A/B testing). 
 - **Architecture & Design:** Object-Oriented Programming (OOP), Protocol-Oriented Programming (POP), Test-Driven Development (TDD), Modularization, Unit Testing, SOLID, MVC, MVP, MVVM, Clean Architecture, Design Patterns, UML, Security. 
 - **Project Management:** Code Review, Code Quality, Monitoring/Observability, App Store Releases, Agile, Scrum, Jira, Trello, Linear, Product Roadmapping 
-- **Soft Skills:** Mentorship, Technical Writing, Technical Decision-making, Cross-functional Collaboration, Clear Communication, Problem-solving, Analytical skills, Remote work. 
+- **Soft Skills:** Mentorship, Technical Writing, Technical Decision-making, Cross-functional Collaboration, Clear Communication, Problem-solving, Analytical Skills, Remote Work. 
 
 ## Work Experience
 
 ### Verbalista (VerbaTech)
-**Senior Lead iOS and macOS Engineer (01/2025 – 07/2025)**  
-- Integrated custom translation AI models with macOS native applications using Swift and LLMs.
-- Built a language assistant for global teams (bi-lingual developers and professionals), reducing translation latency by 40%.
-- Designed and deployed CI/CD automations via GitHub Actions and Xcode Cloud for macOS distribution.
+**Senior Lead macOS Engineer (01/2025 – 07/2025)**  
+- Integrated custom translation AI models with macOS native applications using Swift and large language models (LLMs).
+- Developed a language assistant for global teams, comprising bilingual developers and professionals, which significantly reduced translation latency by 40%.
+- Designed and deployed continuous integration/continuous deployment (CI/CD) automations using GitHub Actions and Xcode Cloud for macOS distribution.
 
 ### Órama Investments
 **Senior Lead iOS Engineer (08/2019 – 12/2024)**  
 - Led the iOS mobile development team collaborating with cross‑functional teams to deliver financial features like Stocks, Funds, Income Tax, PIX.
-- Migrated legacy UIKit projects to SwiftUI, reducing codebase, app size and improving app performance by 25%.
+- Migrated legacy UIKit projects to SwiftUI, reducing codebase, app size and improving app performance by 15%.
 - Implemented automated testing and deployment with Fastlane and Bitrise, improving internal (QAs) and external (AppStore) deploys recurrent cicles.
 
 ### PagSeguro – PagBank – UOL
@@ -36,28 +36,28 @@ I’m currently focused on learning and driving innovation at the intersection o
 
 ### Órama Investments
 **iOS Engineer (October 2019 – February 2021)**  
-- Developed and maintained native iOS applications (white-labels) for investment services, including onboarding, registration, investment profile and funds.  
-- Managed App Store distribution and all cross-collaboration deploys with back-end.  
+- Developed and maintained white-label native iOS applications for investment services, including onboarding, registration, investment profiles, and funds.
+- Managed the App Store distribution and all cross-collaboration deployments with the back-end.   
 
 ### Semaphore CI
 **Technical Content Writer (part-time) (07/2019 – 07/2021)**  
-- Authored high-quality research, technical articles, and guides about CI/CD, iOS automation, Fastlane, and testing.
-- Increased blog traffic by 17% through optimized developer-focused content.
+- Authored high-quality research, technical articles, and guides on CI/CD, iOS automation, Fastlane, and testing.
+- Achieved a 17% increase in blog traffic by creating optimized developer-focused content.
 
 ### Kamba Soluções Pagamentos LDA. 
 **Software Developer (01/2017 – 07/2019)**
-- Built and maintained the mobile recharge, gift cards, Kamba QR Pay, Kamba Link features for the iOS platform.
-- Led technical architecture and deployed CI/CD pipelines both for mobile and back-end.
+- Developed and maintained the mobile recharge, gift cards, Kamba QR Pay, and Kamba Link features for the iOS platform.
+- Led the technical architecture and deployed CI/CD pipelines for both mobile and back-end development.
   
 ### Beezon
 **Software Developer (01/2015 – 12/2016)**
-- Founded a self-funded startup developing mobile and web apps featured in the App Store Top 10 several times and local newspapers.
-- Selected for INAPEM Government Acceleration Program for local startups.
+- Founded a self-funded startup that developed mobile and web apps, which have been featured in the App Store Top 10 several times and local newspapers.
+- Selected for the INAPEM Government Acceleration Program for local startups.
 
 ### Pitaco 
 **Software Developer (06/2014 – 12/2014)**
-- Developed a sports betting app highlighted by Info Magazine as one of Brazil’s top 20 apps.
-- Implemented ranking and social features to boost user engagement into 23% in 2014 world cup.
+- Developed a sports betting app that was featured in Info Magazine as one of Brazil’s top 20 apps.
+- Implemented ranking and social features that significantly increased user engagement to 23% during the 2014 World Cup.
 
 ## Education
 - **Bachelor of Computer Science (B.Sc.)** — University Veiga de Almeida (02/2014 – 12/2019)
