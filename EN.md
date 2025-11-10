@@ -1,13 +1,12 @@
 # Amarildo Lucas
-Rio de Janeiro, Brazil | +55(21)972500152 | hi@amarildolucas.dev
-**GitHub:** github.com/amaril dolucas | **LinkedIn:** linkedin.com/in/amarildolucas
+Rio de Janeiro, Brazil | +55(21)972500152 | hi@amarildolucas.dev | github.com/amarilodolucas | linkedin.com/in/amarildolucas
 
 ## Summary
 Lead iOS and macOS Engineer with 11+ years of experience designing and building scalable native apps using Swift, SwiftUI, Combine, and AVFoundation. Skilled in AI integration, speech processing, and on-device intelligence for Apple platforms. Proven track record in leading mobile teams, optimizing CI/CD pipelines (Fastlane, Xcode Cloud, GitHub Actions), and delivering apps with 100K+ downloads on the App Store.
 
 ## Key Skills
-**Programming Languages:** Swift, Objective-C, Ruby, JavaScript, SQL 
-**Frameworks & Technologies:** SwiftUI, UIKit, Combine, CoreData, AVFoundation, Core ML, Speech Framework 
+**Programming Languages:** Swift, Objective-C, Ruby, JavaScript, SQL.
+**Frameworks & Technologies:** SwiftUI, UIKit, Combine, CoreData, AVFoundation, Core ML, Speech Framework.
 **Tools & Automation:** Xcode, Fastlane, GitHub Actions, Xcode Cloud, TestFlight, Firebase Crashlytics 
 **Architecture & Design:** MVVM, TCA, SOLID, Clean Architecture, Design Patterns, UML 
 **Project Management:** Agile, Scrum, Jira, Trello, Product Roadmapping Soft Skills: Leadership, Mentorship, Cross-functional Collaboration, Technical Writing 
