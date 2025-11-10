@@ -19,25 +19,25 @@ I’m currently focused on learning and driving innovation at the intersection o
 ### Verbalista (VerbaTech)
 **Senior Lead iOS and macOS Engineer (01/2025 – 07/2025)**  
 - Integrated custom translation AI models with macOS native applications using Swift and LLMs.
-- Built a language assistant for global teams, reducing translation latency by 40%.
+- Built a language assistant for global teams (bi-lingual developers and professionals), reducing translation latency by 40%.
 - Designed and deployed CI/CD automations via GitHub Actions and Xcode Cloud for macOS distribution.
 
 ### Órama Investments
 **Senior Lead iOS Engineer (08/2019 – 12/2024)**  
-- Led the iOS mobile development team collaborating with cross‑functional teams to deliver financial apps with 100K+ downloads for B2C and B2B clients (white-label).
+- Led the iOS mobile development team collaborating with cross‑functional teams to deliver financial features like Stocks, Funds, Income Tax, PIX.
 - Migrated legacy UIKit projects to SwiftUI, reducing codebase, app size and improving app performance by 25%.
 - Implemented automated testing and deployment with Fastlane and Bitrise, improving internal (QAs) and external (AppStore) deploys recurrent cicles.
 
 ### PagSeguro – PagBank – UOL
 **Senior iOS Engineer, Design Systems (02/2021 – 07/2021)**  
 - Developed scalable UI components and shared libraries for B2C and B2B PagBank apps.
-- Collaborated with UX teams to build and standardize design systems using Swift and UIKit.
+- Collaborated with UX teams to build and standardize design systems using Swift and UIKit for an universal design architecture.
   
 
 ### Órama Investments
 **iOS Engineer (October 2019 – February 2021)**  
-- Developed and maintained native iOS applications for investment services.  
-- Implemented features based on user feedback and performed continuous improvements.  
+- Developed and maintained native iOS applications (white-labels) for investment services, including onboarding, registration, investment profile and funds.  
+- Managed App Store distribution and all cross-collaboration deploys with back-end.  
 
 ### Semaphore CI
 **Technical Content Writer (part-time) (07/2019 – 07/2021)**  
@@ -46,18 +46,18 @@ I’m currently focused on learning and driving innovation at the intersection o
 
 ### Kamba Soluções Pagamentos LDA. 
 **Software Developer (01/2017 – 07/2019)**
-- Built and maintained iOS apps integrating Swift, UIKIt, and REST APIs.
-- Led technical architecture and deployed CI/CD pipelines with Ruby on Rails APIs.
+- Built and maintained the mobile recharge, gift cards, Kamba QR Pay, Kamba Link features for the iOS platform.
+- Led technical architecture and deployed CI/CD pipelines both for mobile and back-end.
   
 ### Beezon
 **Software Developer (01/2015 – 12/2016)**
-• Founded a self-funded startup developing mobile and web apps featured in the App Store Top 10 several times.
-• Selected for INAPEM Government Acceleration Program for local startups.
+- Founded a self-funded startup developing mobile and web apps featured in the App Store Top 10 several times and local newspapers.
+- Selected for INAPEM Government Acceleration Program for local startups.
 
 ### Pitaco 
 **Software Developer (06/2014 – 12/2014)**
-• Developed a sports betting app highlighted by Info Magazine as one of Brazil’s top 20 apps.
-• Implemented ranking and social features to boost user engagement.
+- Developed a sports betting app highlighted by Info Magazine as one of Brazil’s top 20 apps.
+- Implemented ranking and social features to boost user engagement into 23% in 2014 world cup.
 
 ## Education
 - **Bachelor of Computer Science (B.Sc.)** — University Veiga de Almeida (02/2014 – 12/2019)
