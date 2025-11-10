@@ -7,12 +7,12 @@ I’ve designed and built scalable native apps for iOS and macOS for over 11 yea
 I’m currently focused on learning and driving innovation at the intersection of AI-assisted software development. I leverage my deep understanding of product development and business strategy to ship better software faster with engineering expertise throughout the software development lifecycle. 
 
 ## Key Skills
-**Programming Languages & Technologies:** iOS, macOS, wathcOS, ipadOS, Swift, SwiftUI, Objective-C, UIKit, AppKit, WebViews, Concurrency, RESTful.
-**Frameworks:** SwiftData, AVFoundation, Core Animation, Core Graphics.
-**Tools & Automation:** Git (GitFlow), Xcode, Swift Package Manager (SPM), CocoaPods, Fastlane, GitHub Actions, Xcode Cloud, Continuous Integration, Continuous Deployment, TestFlight, Firebase Crashlytics, Sentry, Feature Flags (A/B testing). 
-**Architecture & Design:** Object-Oriented Programming (OOP), Protocol-Oriented Programming (POP), Test-Driven Development (TDD), Modularization, Unit Testing, SOLID, MVC, MVP, MVVM, Clean Architecture, Design Patterns, UML. 
-**Project Management:** Code Review, Code Quality, Monitoring/Observability, Agile, Scrum, Jira, Trello, Linear, Product Roadmapping 
-**Soft Skills:** Mentorship, Technical Writing, Technical Decision-making, Cross-functional Collaboration, Clear Communication, Problem-solving, Analytical skills, Remote work. 
+- **Programming Languages & Technologies:** iOS, macOS, wathcOS, ipadOS, Swift, SwiftUI, Objective-C, UIKit, AppKit, XCTest, XCUITest, Concurrency, RESTful, Instruments.
+- **Frameworks:** Foundation, SwiftData (Core Data), AVFoundation, Speech, Foundation Models, Vision, StoreKit, HealthKit, UserNotifications, Network (URLSession), Core Location, Core Animation, Core Graphics, RevenueCat, WidgetKit, AppIntents, EventKit.
+- **Tools & Automation:** Git (GitFlow), Xcode, Swift Package Manager (SPM), CocoaPods, Fastlane, GitHub Actions, Xcode Cloud, Continuous Integration, Continuous Deployment, TestFlight, Firebase Crashlytics, Sentry, Feature Flags (A/B testing). 
+- **Architecture & Design:** Object-Oriented Programming (OOP), Protocol-Oriented Programming (POP), Test-Driven Development (TDD), Modularization, Unit Testing, SOLID, MVC, MVP, MVVM, Clean Architecture, Design Patterns, UML, Security. 
+- **Project Management:** Code Review, Code Quality, Monitoring/Observability, App Store Releases, Agile, Scrum, Jira, Trello, Linear, Product Roadmapping 
+- **Soft Skills:** Mentorship, Technical Writing, Technical Decision-making, Cross-functional Collaboration, Clear Communication, Problem-solving, Analytical skills, Remote work. 
 
 ## Work Experience
 
