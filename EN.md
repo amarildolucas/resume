@@ -16,6 +16,10 @@ I’m currently focused on learning and driving innovation at the intersection o
 
 ## Work Experience
 
+### African Fintech (Part-time Contract) 
+**Mobile Development Consulting & SDKs (10/2025 - Current)**
+- Development of SDKs or modules for white label solutions and open banking features.
+
 ### Verbalista (VerbaTech)
 **Senior Lead macOS Engineer (01/2025 - 07/2025)**  
 - Integrated custom translation AI models with macOS native applications using Swift and large language models (LLMs).
